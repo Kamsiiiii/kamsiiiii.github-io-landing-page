@@ -1,0 +1,83 @@
+html {
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    text-decoration: none;
+    box-shadow: 10px;
+    background-color: rgb(229, 231, 229);
+  }
+  .navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .logo h1 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #050000;
+    padding-left: 20px;
+  }
+  .nav-list li {
+    display: inline-block;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    margin-right: 20px;
+    font-size: 18px;
+    font-weight: bold; 
+  }
+  .contain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    justify-items: center;
+    text-align: center;
+    color: gray;
+  }
+
+  button{
+    border: 2px solid  skyblue;
+    background-color: transparent;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 15px;
+    color: skyblue;
+  }
+  .make{
+    font-size: 50px;
+    color: black;
+    font-family: poppins;
+  }
+  .sub{
+    background-color: rgb(151, 39, 39);
+    padding: 15px ;
+    width: 30%;
+    box-sizing: border-box;
+    border: none;
+    color: white;
+    font-weight: bold;
+    
+  }
+  .enter{
+    padding: 15px;
+    border: none;
+    width: 50%;
+  }
+
+  .main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+  }
+  .burna{
+    margin-left: 20px;
+    padding-left: 20px;
+  }
+
+  
+
+    
+  
+  
